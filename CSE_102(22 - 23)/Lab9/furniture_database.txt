@@ -1,0 +1,8 @@
+Name,Color,Price,Serial_Number,Quantity
+Bookshelf,Red,13.95,123456,122
+Sofa,Brown,16.85,234567,255
+Chair,White,9.99,345678,256
+Table,Brown,10.00,456789,645
+Wardrobe,Orange,16.45,567891,452
+Bookshelf,Purple,14.95,123457,128
+Table,Red,15.68,124578,619

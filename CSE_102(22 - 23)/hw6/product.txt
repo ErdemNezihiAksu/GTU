@@ -1,0 +1,12 @@
+pID,Type,Name,Brand,Price
+1,D,Ayran,Sutas,15.45
+2,F,Yoğurt,Sutas,18.50
+3,D,Süt,İcim,12.60
+4,D,Ayran,İcim,16.20
+5,F,Yoğurt,İcim,8.45
+6,O,Tencere,Tefal,100.00
+7,C,Sabun,Eyup,5.00
+8,O,Tava,Tefal,68.00
+9,O,Telefon,Apple,30000.00
+10,C,Deterjan,Eyup,31.00
+11,O,Telefon,Apple,25000.00

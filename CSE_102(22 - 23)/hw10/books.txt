@@ -1,0 +1,9 @@
+ISBN,title,author,year,status
+0008,Sefiller,Victor Hugo,1862,available
+0007,Savaş ve Barış,Tolstoy,1731,available
+0006,Bir Omur Nasil Yasanir,İlber Ortaylı,2019,available
+0005,Black Tower,Stephen King,1974,available
+0004,Hababam Sinifi,Rifat Ilgaz,1974,available
+0003,Anna Karanina,Tolstoy,1756,available
+0002,Konstantiniye Oteli,Zulfu Livaneli,2015,available
+0001,IT,Stephen King,2000,available

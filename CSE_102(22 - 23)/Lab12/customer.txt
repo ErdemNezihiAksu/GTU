@@ -1,0 +1,5 @@
+Name,Age,Prioraty Group
+Erdem Aksu,20,VIP.
+Sefa Akgün,21,VIP.
+Ahmet Dundar,19,OD.
+Zeynep Tekeli,45,VETERAN.

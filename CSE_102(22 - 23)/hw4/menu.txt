@@ -1,0 +1,11 @@
+Product         Price(TL)
+Kebap           100.00
+Doner           80.00
+Durum           75.00
+Pide            70.00
+Lahmacun        30.00
+Katmer          45.75
+Kunefe          120.00
+Ayran           8.50
+Kola            10.00
+Su              5.00
