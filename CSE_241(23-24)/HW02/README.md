@@ -6,11 +6,6 @@
 
 ## Commands
 
-- cp
-  You can either copy your actual files in your computer or copy the abstract files.
-  NOTE:
-  - If you don't have a saved shell, you have to copy an actual file from your computer to begin since there is no touch command.
-  - Directories can not be coppied.
 - ls (-R)
   -R: prints the directories recursivly.
 - mkdir
@@ -20,8 +15,14 @@
 - save (saves current shell to OS.bin file)
 - load (loads the saved shell)
 - cat
+- cp
+  You can either copy your actual files in your computer or copy the abstract files.
+  
+  NOTE:
+  - If you don't have a saved shell, you have to copy an actual file from your computer to begin since there is no touch command.
+  - Directories can not be coppied.
 
-### Explonation
+### Explanation
 
     All 3 files types are a class inherited from file abstract class (FILE.HPP).
 
